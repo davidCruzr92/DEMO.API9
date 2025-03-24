@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\DEMO.API9.Models\DEMO.API9.Models.csproj" />
+    </ItemGroup>
+
 </Project>

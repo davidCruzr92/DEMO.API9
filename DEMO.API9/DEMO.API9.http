@@ -1,6 +1,6 @@
 @DEMO.API9_HostAddress = http://localhost:5126
 
-GET {{DEMO.API9_HostAddress}}/weatherforecast/
+GET {{DEMO.API9_HostAddress}}/api/UserManagement/login
 Accept: application/json
 
 ###
